@@ -57,10 +57,10 @@ ax2.text(4.9, 5.4, '-25% Dispatches\nInjected', ha='center', va='bottom', fontsi
 
 # Add Impact Subtitles
 ax1.text(5, 1, "Expected Impact: Compresses headways on City routes without requiring new CAPEX.", 
-         ha='center', va='center', fontsize=12, fontstyle='italic', color='#444444')
+         ha='center', va='center', fontsize=10, fontstyle='italic', color='#444444')
 
 ax2.text(5, 1, "Expected Impact: Eliminates dead mileage in CBDs and captures peak leisure revenue.", 
-         ha='center', va='center', fontsize=12, fontstyle='italic', color='#444444')
+         ha='center', va='center', fontsize=10, fontstyle='italic', color='#444444')
 
 # ==========================================
 # Titles and Layout
